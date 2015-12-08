@@ -5,9 +5,7 @@
 	"esnext": true,
 	"freeze": true,
 	"immed": true,
-	"indent": 2,
-	"latedef": "nofunc",
-	"maxlen": 200,
+	"indent": 2,s
 	"newcap": true,
 	"node": true,
 	"noarg": true,
