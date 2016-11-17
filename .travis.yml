@@ -1,5 +1,5 @@
 language: php
 script: 
-  - echo "$priv" > test
-  - cat test
+  - echo "$priv" > testfile
+  - cat testfile
 
